@@ -1,18 +1,20 @@
 # JesterBox
-Pure CSS image-displaying solution. No calculating to keep image's ratio (it works standalone). 
+Pure CSS image-displaying solution. No calculating to keep image's ratio (it works standalone).
 
-You can learn some tricks from that, if you are beginner/medium in CSS. 
+You can learn some tricks from that, if you are beginner/medium in CSS.
+
+Example: http://schizohatter.tk/stuff/jesterbox/JesterBox.html
 
 ## Basic information
 * Author: Schizohatter/Soanvig (http://schizohatter.tk)
 * Year: 2015
 
 ## Compatibility
-* Confirmed browser compatibility: 
-	* IE 11, 
-	* Firefox, 
+* Confirmed browser compatibility:
+	* IE 11,
+	* Firefox,
 	* Chrome.
-* Compatibility additional information: 
+* Compatibility additional information:
 	* No vendor prefixes used;
 	* To get animations work, browser has to support transitions;
 	* To get vertical centering work, browser has to support flex model (with basic flex syntax as described in MDN).
